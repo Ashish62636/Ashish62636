@@ -13,7 +13,7 @@ Welcome to my profile! I am a software engineer focused on building end-to-end f
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+###  Tech Stack & Tooling
 
 <table>
   <thead>
