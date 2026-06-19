@@ -5,7 +5,7 @@ Welcome to my profile! I am a software engineer focused on building end-to-end f
 
 ---
 
-### 🚀 What I Do
+###  What I Do
 
 - 🌐 **Full-Stack & REST APIs:** Developing production-grade REST APIs and web interfaces using React/Next.js and Node.js/FastAPI under strict TypeScript/Python architectures.
 - 🗺️ **Spatial Data Intelligence:** Building high-performance geospatial analytics pipelines and WebGL mapping visualisations using `deck.gl`, `Uber H3`, and `DuckDB`.
@@ -62,7 +62,7 @@ Welcome to my profile! I am a software engineer focused on building end-to-end f
 
 ---
 
-### 🏆 Featured Project
+###  Featured Project
 
 #### [🚦 look_Around — Bengaluru Parking Intelligence](https://github.com/Ashish62636/look_Around-Parking_Intelligence)
 An AI-driven spatial parking-violation intelligence system built during a ~48h hackathon. It ingests **298,450 records** and serves real-time prediction overlays:
